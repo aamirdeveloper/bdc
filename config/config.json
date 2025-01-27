@@ -3,21 +3,21 @@
     "username": "root",
     "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
-    "host": "localhost",
+    "host": "82.112.234.30",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
-    "host": "localhost",
+    "host": "82.112.234.30",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
-    "host": "localhost",
+    "host": "82.112.234.30",
     "dialect": "mysql"
   }
 }
