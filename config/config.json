@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "root",
-    "password": "",
+    "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "",
+    "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
     "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "",
+    "password": "aXNkdfmlFpg123XfggNd",
     "database": "bdc",
     "host": "localhost",
     "dialect": "mysql"
