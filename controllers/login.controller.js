@@ -88,6 +88,7 @@ function login(req, res){
     }).catch(error => {
         res.status(200).json({
             status: 2,
+            error: error,
             message: "Something went wrong"
         });
     });
