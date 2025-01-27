@@ -14,4 +14,4 @@ connection.connect(function(err) {
     }
   
     console.log('Connected to the MySQL server.');
-});
+  });
