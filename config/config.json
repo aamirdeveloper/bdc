@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "aXNkdfmlFpg123XfggNd",
+    "username": "pma",
+    "password": "mc92nvnrooC2owotDfF2@FjNG",
     "database": "bdc",
-    "host": "82.112.234.30",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "aXNkdfmlFpg123XfggNd",
+   "username": "pma",
+    "password": "mc92nvnrooC2owotDfF2@FjNG",
     "database": "bdc",
-    "host": "82.112.234.30",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "aXNkdfmlFpg123XfggNd",
+    "username": "pma",
+    "password": "mc92nvnrooC2owotDfF2@FjNG",
     "database": "bdc",
-    "host": "82.112.234.30",
+    "host": "localhost",
     "dialect": "mysql"
   }
 }
