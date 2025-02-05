@@ -2,8 +2,8 @@ let mysql = require('./node_modules/mysql2');
 
 let connection = mysql.createConnection({
     host: 'localhost',
-    user: 'pma',
-    password: 'mc92nvnrooC2owotDfF2@FjNG',
+    user: 'webuser',
+    password: 'BNfO9qwXNdhgfhO0468NDHhgOwjkEt',
     database: 'bdc'
 });
 
