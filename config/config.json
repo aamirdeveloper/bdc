@@ -1,22 +1,22 @@
 {
   "development": {
    "host": "localhost",
-    "user": "pma",
-    "password": "mc92nvnrooC2owotDfF2@FjNG",
+    "user": "webuser",
+    "password": "BNfO9qwXNdhgfhO0468NDHhgOwjkEt",
     "database": "bdc",
     "dialect": "mysql"
   },
   "test": {
     "host": "localhost",
-    "user": "pma",
-    "password": "mc92nvnrooC2owotDfF2@FjNG",
+    "user": "webuser",
+    "password": "BNfO9qwXNdhgfhO0468NDHhgOwjkEt",
     "database": "bdc",
     "dialect": "mysql"
   },
   "production": {
     "host": "localhost",
-    "user": "pma",
-    "password": "mc92nvnrooC2owotDfF2@FjNG",
+    "user": "webuser",
+    "password": "BNfO9qwXNdhgfhO0468NDHhgOwjkEt",
     "database": "bdc",
     "dialect": "mysql"
   }
